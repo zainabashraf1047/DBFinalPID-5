@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --bold-h4: Quicksand;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --bold-h4-size: 16px;
+  --desktop-bold-h4-size: 18px;
+  --font-size-27xl: 46px;
+  --font-size-sm: 14px;
+  --font-size-17xl: 36px;
+  --font-size-xs: 12px;
+  --font-size-3xl: 22px;
+  --font-size-7xl: 26px;
+
+  /* Colors */
+  --white: #fff;
+  --purple-1: #9b51e0;
+  --gray-1: #333;
+  --color-darkslategray-100: #323232;
+  --color-mediumseagreen: #21bf90;
+  --color-gray-100: #8d8d8d;
+  --color-gray-200: #757575;
+  --color-gray-300: rgba(255, 255, 255, 0.8);
+  --neutral-color-cool-grey-50: #f9fafb;
+  --color-steelblue: #7688b5;
+  --orange: #f2994a;
+  --color-dimgray: #565656;
+  --color-black: #000;
+  --color-darkslateblue-100: #204ea5;
+  --color-darkslateblue-200: rgba(20, 42, 83, 0.25);
+  --color-lavender: #dbe7ff;
+
+  /* Gaps */
+  --gap-lgi: 19px;
+
+  /* Paddings */
+  --padding-xs: 12px;
+  --padding-xl: 20px;
+  --padding-base: 16px;
+  --padding-5xl: 24px;
+
+  /* Border radiuses */
+  --br-5xl-1: 24.1px;
+  --br-81xl: 100px;
+  --br-7xs: 6px;
+  --br-5xs: 8px;
+  --br-3xs: 10px;
+}

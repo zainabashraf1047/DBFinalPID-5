@@ -1,0 +1,947 @@
+.doctorXIcon {
+    position: absolute;
+    top: 12.5px;
+    left: 53.3px;
+    width: 104.4px;
+    height: 18.4px;
+  }
+  .groupIcon,
+  .headerInner {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .groupIcon {
+    height: 100%;
+    width: 29.36%;
+    right: 70.64%;
+    bottom: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .headerInner {
+    width: 157.7px;
+    height: 42px;
+  }
+  .home {
+    position: absolute;
+    top: 10px;
+    left: 217px;
+  }
+  .aboutUs,
+  .contact,
+  .services {
+    position: absolute;
+    top: 10px;
+    left: 300px;
+  }
+  .aboutUs,
+  .contact {
+    left: 413px;
+  }
+  .contact {
+    left: 519px;
+  }
+  .logOut {
+    position: relative;
+    font-weight: 500;
+  }
+  .logOutWrapper {
+    position: absolute;
+    top: 0;
+    left: 999px;
+    border-radius: var(--br-7xs);
+    border: 1px solid var(--color-darkslateblue-100);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-xs) 18px;
+    color: var(--color-darkslateblue-100);
+  }
+  .header {
+    position: absolute;
+    top: 40px;
+    left: 116px;
+    width: 1104px;
+    height: 46px;
+  }
+  .bookAnAppointmentWrapper,
+  .main1Child {
+    position: absolute;
+    background-color: var(--color-darkslateblue-100);
+  }
+  .main1Child {
+    top: 410px;
+    left: 17.5px;
+    filter: blur(40px);
+    width: 199px;
+    height: 25.8px;
+  }
+  .bookAnAppointmentWrapper {
+    top: 384px;
+    left: 0;
+    border-radius: var(--br-7xs);
+    border: 1px solid var(--color-darkslateblue-100);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-base) var(--padding-5xl);
+    color: var(--white);
+  }
+  .weFollowA,
+  .yourTrustedPartner {
+    position: absolute;
+    left: 1px;
+    display: inline-block;
+  }
+  .weFollowA {
+    top: 54px;
+    font-size: 62px;
+    width: 564px;
+    height: 217px;
+  }
+  .yourTrustedPartner {
+    top: 303px;
+    color: var(--color-darkslategray-100);
+    width: 461px;
+    height: 49px;
+  }
+  .expertMedicalTreatment {
+    position: absolute;
+    top: 0;
+    left: 35px;
+    font-weight: 500;
+  }
+  .groupChild {
+    position: absolute;
+    top: 11px;
+    left: 0;
+    border-top: 2px solid #24da8b;
+    box-sizing: border-box;
+    width: 25px;
+    height: 2px;
+  }
+  .expertMedicalTreatmentParent {
+    position: absolute;
+    top: 0;
+    left: 1px;
+    width: 308px;
+    height: 22px;
+  }
+  .main1,
+  .main2Child {
+    position: absolute;
+    top: 242px;
+    left: 149px;
+    width: 565px;
+    height: 438px;
+  }
+  .main2Child {
+    top: 0;
+    left: 85.3px;
+    width: 400px;
+    height: 585px;
+    object-fit: cover;
+  }
+  .groupItem,
+  .k {
+    position: absolute;
+    left: 0;
+  }
+  .groupItem {
+    top: 0;
+    backdrop-filter: blur(30px);
+    border-radius: var(--br-7xs);
+    background-color: var(--color-gray-300);
+    width: 145.9px;
+    height: 54.4px;
+  }
+  .k {
+    top: 3px;
+    font-weight: 600;
+  }
+  .happy {
+    margin: 0;
+  }
+  .happyPatients {
+    position: absolute;
+    top: 0;
+    left: 59.4px;
+    font-size: var(--font-size-sm);
+    font-weight: 500;
+  }
+  .groupWrapper,
+  .kParent,
+  .rectangleParent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 114.3px;
+    height: 34px;
+  }
+  .groupWrapper,
+  .rectangleParent {
+    top: 10.2px;
+    left: 15.8px;
+  }
+  .rectangleParent {
+    top: 361px;
+    left: 0;
+    width: 145.9px;
+    height: 54.4px;
+  }
+  .expertDoctors {
+    position: absolute;
+    top: 0;
+    left: 59.3px;
+    font-size: var(--font-size-sm);
+    font-weight: 500;
+  }
+  .groupContainer,
+  .parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 112.3px;
+    height: 34px;
+  }
+  .groupContainer {
+    top: 10.2px;
+    left: 15.8px;
+  }
+  .main2,
+  .rectangleGroup {
+    position: absolute;
+    top: 475.3px;
+    left: 368.3px;
+    width: 145.9px;
+    height: 54.4px;
+  }
+  .main2 {
+    top: 139.6px;
+    left: 775.7px;
+    width: 514.3px;
+    height: 585px;
+    font-size: var(--font-size-7xl);
+    color: var(--color-darkslateblue-100);
+  }
+  .experiencedInMultiple {
+    position: absolute;
+    top: 33.5px;
+    left: 328.5px;
+    font-size: var(--font-size-17xl);
+    display: inline-block;
+    color: var(--color-black);
+    width: 484.9px;
+    height: 92.4px;
+  }
+  .services2 {
+    position: absolute;
+    top: 0;
+    left: 530px;
+    font-weight: 600;
+    text-align: left;
+  }
+  .weOfferA {
+    position: absolute;
+    top: 148.3px;
+    left: 146.1px;
+    color: var(--color-darkslategray-100);
+    display: inline-block;
+    width: 849.7px;
+    height: 54.9px;
+  }
+  .groupChild1,
+  .rectangleDiv {
+    position: absolute;
+    border-radius: var(--br-7xs);
+  }
+  .rectangleDiv {
+    top: 70.6px;
+    left: 303.3px;
+    filter: blur(60px);
+    background-color: var(--color-darkslateblue-200);
+    width: 244.6px;
+    height: 219.8px;
+  }
+  .groupChild1 {
+    top: 0;
+    left: 0;
+    background-color: var(--white);
+    width: 270.3px;
+    height: 273.4px;
+  }
+  .medical,
+  .ourMedicalServices {
+    position: absolute;
+    left: 0;
+    display: inline-block;
+  }
+  .medical {
+    top: 0;
+    font-weight: 600;
+    width: 163px;
+    height: 22.5px;
+  }
+  .ourMedicalServices {
+    top: 39.8px;
+    font-size: var(--desktop-bold-h4-size);
+    color: var(--color-darkslategray-100);
+    width: 211.5px;
+    height: 94px;
+  }
+  .groupFrame,
+  .medicalParent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 211.5px;
+    height: 133.8px;
+  }
+  .groupFrame {
+    top: 89.6px;
+  }
+  .groupChild2,
+  .groupParent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 58.2px;
+    height: 58.2px;
+  }
+  .groupParent {
+    top: 25px;
+    left: 29.4px;
+    width: 211.5px;
+    height: 223.5px;
+  }
+  .groupDiv,
+  .individualFamily {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 270.3px;
+    height: 273.4px;
+  }
+  .individualFamily {
+    font-weight: 600;
+    display: inline-block;
+    width: 199.9px;
+    height: 22.5px;
+  }
+  .groupParent2,
+  .rectangleParent1 {
+    position: absolute;
+    top: 0;
+    left: 290.5px;
+    width: 270.3px;
+    height: 273.4px;
+  }
+  .groupParent2 {
+    top: 25px;
+    left: 29.3px;
+    width: 211.5px;
+    height: 223.5px;
+  }
+  .rectangleParent2,
+  .rectangleParent3 {
+    position: absolute;
+    top: 0;
+    left: 581px;
+    width: 270.3px;
+    height: 273.4px;
+  }
+  .rectangleParent3 {
+    left: 871.4px;
+  }
+  .rectangleContainer,
+  .services1 {
+    position: absolute;
+    width: 1141.7px;
+  }
+  .rectangleContainer {
+    top: 243.3px;
+    left: 0;
+    height: 290.4px;
+    text-align: left;
+    font-size: var(--font-size-3xl);
+  }
+  .services1 {
+    top: 918px;
+    left: 149px;
+    height: 533.7px;
+    text-align: center;
+    color: var(--color-darkslateblue-100);
+  }
+  .aboutUsWrapper,
+  .bookAnAppointmentContainer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-7xs);
+    background-color: var(--color-darkslateblue-100);
+    border: 1px solid var(--color-darkslateblue-100);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-base) var(--padding-5xl);
+  }
+  .aboutUsWrapper {
+    left: 258px;
+    background-color: var(--white);
+    color: var(--color-darkslateblue-100);
+  }
+  .frameParent {
+    position: absolute;
+    top: 350.7px;
+    left: 0;
+    width: 384px;
+    height: 54px;
+  }
+  .weAreDedicatedContainer {
+    position: absolute;
+    top: 164.7px;
+    left: 1px;
+    color: var(--color-darkslategray-100);
+    display: inline-block;
+    width: 461px;
+    height: 158px;
+  }
+  .aDedicatedDoctor {
+    position: absolute;
+    top: 41.4px;
+    left: 0;
+    display: inline-block;
+    width: 564px;
+    height: 95.3px;
+  }
+  .aboutUs2,
+  .aboutUsContainer {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .aboutUs2 {
+    font-weight: 500;
+  }
+  .aboutUsContainer {
+    width: 93px;
+    height: 22px;
+    font-size: var(--desktop-bold-h4-size);
+    color: var(--color-darkslateblue-100);
+  }
+  .aDedicatedDoctorWithTheCoParent {
+    position: absolute;
+    top: 0;
+    left: 1px;
+    width: 564px;
+    height: 136.7px;
+    font-size: var(--font-size-17xl);
+    color: var(--color-black);
+  }
+  .groupParent5 {
+    position: absolute;
+    top: 0;
+    left: 580.8px;
+    width: 565px;
+    height: 404.7px;
+  }
+  .unsplashrxpthowuvgeIcon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 18px;
+    width: 514.3px;
+    height: 397.1px;
+    object-fit: cover;
+  }
+  .groupChild9 {
+    position: absolute;
+    top: 51.7px;
+    left: 6.5px;
+    filter: blur(60px);
+    border-radius: var(--br-7xs);
+    background-color: var(--color-darkslateblue-200);
+    width: 140.3px;
+    height: 149.9px;
+  }
+  .ellipseIcon,
+  .rectangleIcon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 12px;
+    width: 167px;
+    height: 246px;
+  }
+  .ellipseIcon {
+    left: 39.9px;
+    border-radius: 50%;
+    width: 59.3px;
+    height: 59.3px;
+    object-fit: cover;
+  }
+  .shahidBrothers {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 70px);
+    font-weight: 600;
+  }
+  .ceo {
+    position: absolute;
+    top: 31px;
+    left: 57px;
+    font-size: var(--font-size-xs);
+    color: var(--color-gray-200);
+  }
+  .shahidBrothersParent {
+    position: absolute;
+    top: 68.1px;
+    left: calc(50% - 70px);
+    width: 140px;
+    height: 46px;
+  }
+  .ellipseParent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 140px;
+    height: 114.1px;
+  }
+  .shahidBrothersBrings {
+    position: absolute;
+    top: 127.4px;
+    left: 7px;
+    font-size: var(--font-size-xs);
+    color: var(--color-gray-200);
+    text-align: center;
+    display: inline-block;
+    width: 125.1px;
+    height: 47.4px;
+  }
+  .groupParent7 {
+    position: absolute;
+    top: 15.9px;
+    left: 10px;
+    width: 140px;
+    height: 174.7px;
+  }
+  .rectangleParent4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 167px;
+    height: 246px;
+  }
+  .groupChild10,
+  .groupParent6 {
+    position: absolute;
+    top: 7.9px;
+    left: 135.8px;
+    width: 15.1px;
+    height: 15.1px;
+  }
+  .groupParent6 {
+    top: 293.8px;
+    left: 289.8px;
+    width: 167px;
+    height: 246px;
+  }
+  .groupParent4,
+  .ourPatientsSays,
+  .unsplashrxpthowuvgeParent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 514.3px;
+    height: 539.8px;
+    color: var(--color-black);
+  }
+  .groupParent4,
+  .ourPatientsSays {
+    top: 1690px;
+    left: 157px;
+    width: 1145.8px;
+    color: var(--white);
+  }
+  .ourPatientsSays {
+    top: 33.5px;
+    left: 328.5px;
+    font-size: var(--font-size-17xl);
+    display: inline-block;
+    color: var(--color-black);
+    text-align: center;
+    width: 484.9px;
+    height: 49.3px;
+  }
+  .testimonials {
+    position: absolute;
+    top: 0;
+    left: 503.5px;
+    font-size: var(--desktop-bold-h4-size);
+    font-weight: 600;
+  }
+  .groupChild11 {
+    position: absolute;
+    top: 123.2px;
+    left: 0;
+    border-radius: var(--br-7xs);
+    background-color: var(--white);
+    width: 350.3px;
+    height: 273.4px;
+  }
+  .medical1,
+  .theCareI {
+    position: absolute;
+    display: inline-block;
+  }
+  .theCareI {
+    top: 165.4px;
+    left: 24.8px;
+    line-height: 24px;
+    color: var(--color-dimgray);
+    width: 300.7px;
+    height: 94px;
+  }
+  .medical1 {
+    top: 314.6px;
+    left: 94.1px;
+    font-size: var(--bold-h4-size);
+    font-weight: 600;
+    width: 163px;
+    height: 22.5px;
+  }
+  .groupChild12 {
+    position: absolute;
+    top: 293.8px;
+    left: 24.8px;
+    border-radius: 50%;
+    width: 60.6px;
+    height: 60.6px;
+    object-fit: cover;
+  }
+  .groupChild13 {
+    position: absolute;
+    top: 123.2px;
+    left: 395px;
+    border-radius: var(--br-7xs);
+    background-color: var(--white);
+    width: 350.3px;
+    height: 273.4px;
+  }
+  .iRecentlyVisited,
+  .medical2 {
+    position: absolute;
+    display: inline-block;
+  }
+  .iRecentlyVisited {
+    top: 165.4px;
+    left: 419.8px;
+    line-height: 24px;
+    color: var(--color-dimgray);
+    white-space: pre-wrap;
+    width: 300.7px;
+    height: 94px;
+  }
+  .medical2 {
+    top: 314.6px;
+    left: 495.1px;
+    font-size: var(--bold-h4-size);
+    font-weight: 600;
+    width: 163px;
+    height: 22.5px;
+  }
+  .groupChild14 {
+    position: absolute;
+    top: 293.8px;
+    left: 419.8px;
+    border-radius: 50%;
+    width: 60.6px;
+    height: 60.6px;
+    object-fit: cover;
+  }
+  .groupChild15 {
+    position: absolute;
+    top: 123.2px;
+    left: 789.9px;
+    border-radius: var(--br-7xs);
+    background-color: var(--white);
+    width: 350.3px;
+    height: 273.4px;
+  }
+  .asALongTime,
+  .medical3 {
+    position: absolute;
+    display: inline-block;
+  }
+  .asALongTime {
+    top: 165.4px;
+    left: 814.8px;
+    line-height: 24px;
+    color: var(--color-dimgray);
+    width: 300.7px;
+    height: 94px;
+  }
+  .medical3 {
+    top: 318.6px;
+    left: 890.1px;
+    font-size: var(--bold-h4-size);
+    font-weight: 600;
+    width: 163px;
+    height: 22.5px;
+  }
+  .groupChild16 {
+    position: absolute;
+    top: 293.8px;
+    left: 814.8px;
+    border-radius: 50%;
+    width: 60.6px;
+    height: 60.6px;
+    object-fit: cover;
+  }
+  .nounQuote777461Icon,
+  .nounQuote777462Icon {
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    overflow: hidden;
+  }
+  .nounQuote777461Icon {
+    top: 64.6px;
+    left: 15px;
+    object-fit: contain;
+  }
+  .nounQuote777462Icon {
+    top: 371.6px;
+    left: 1050.3px;
+  }
+  .groupChild17,
+  .groupChild18,
+  .groupChild19,
+  .groupChild20 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-lavender);
+    width: 52px;
+    height: 8px;
+  }
+  .groupChild18,
+  .groupChild19,
+  .groupChild20 {
+    left: 62.4px;
+    background-color: var(--color-darkslateblue-100);
+  }
+  .groupChild19,
+  .groupChild20 {
+    left: 124.8px;
+    background-color: var(--color-lavender);
+  }
+  .groupChild20 {
+    left: 187.2px;
+  }
+  .rectangleParent5 {
+    position: absolute;
+    top: 442.8px;
+    left: 451.4px;
+    width: 239.1px;
+    height: 8px;
+  }
+  .ourPatientsSaysParent {
+    position: absolute;
+    top: 2354px;
+    left: 150px;
+    width: 1140.3px;
+    height: 461.6px;
+    font-size: var(--font-size-sm);
+    color: var(--color-darkslateblue-100);
+  }
+  .groupChild21 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 26px;
+    background-color: var(--color-lavender);
+    width: 1141px;
+    height: 390.5px;
+  }
+  .getInTouch {
+    position: absolute;
+    top: 0;
+    left: 109px;
+    font-weight: 600;
+    display: inline-block;
+    width: 505.6px;
+    height: 95px;
+  }
+  .bookingAnAppointment {
+    position: absolute;
+    top: 119.8px;
+    left: 174.3px;
+    font-size: var(--desktop-bold-h4-size);
+  }
+  .groupChild22 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-5xs);
+    background-color: var(--white);
+    width: 281.2px;
+    height: 54px;
+  }
+  .enterYourName {
+    position: absolute;
+    top: 18.5px;
+    left: 20.8px;
+    font-weight: 500;
+  }
+  .rectangleParent7 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 281.2px;
+    height: 54px;
+  }
+  .enterDoctorName {
+    position: absolute;
+    top: 18.5px;
+    left: 19.6px;
+    font-weight: 500;
+  }
+  .rectangleParent8 {
+    position: absolute;
+    top: 0;
+    left: 294.2px;
+    width: 281.2px;
+    height: 54px;
+  }
+  .submit {
+    width: 87.3px;
+    position: relative;
+    font-weight: 500;
+    display: inline-block;
+    height: 16.6px;
+    flex-shrink: 0;
+  }
+  .submitWrapper {
+    position: absolute;
+    top: 2.6px;
+    left: 588.4px;
+    border-radius: var(--br-7xs);
+    background-color: var(--color-darkslateblue-100);
+    border: 1px solid var(--color-darkslateblue-100);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-base) var(--padding-5xl);
+    font-size: var(--desktop-bold-h4-size);
+    color: var(--white);
+  }
+  .groupParent8 {
+    position: absolute;
+    top: 210.6px;
+    left: 0;
+    width: 723.6px;
+    height: 54px;
+    font-size: var(--font-size-sm);
+    color: var(--color-gray-100);
+  }
+  .getInTouchToBookYourFirsParent {
+    position: absolute;
+    top: 63px;
+    left: 209.2px;
+    width: 723.6px;
+    height: 264.6px;
+  }
+  .rectangleParent6 {
+    position: absolute;
+    top: 3005px;
+    left: 184px;
+    width: 1141px;
+    height: 390.5px;
+    text-align: center;
+    font-size: var(--font-size-17xl);
+  }
+  .company {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: 600;
+    color: var(--color-black);
+  }
+  .company1,
+  .contact1,
+  .services3 {
+    position: absolute;
+    top: 92.5px;
+    left: 0;
+  }
+  .contact1,
+  .services3 {
+    top: 136.2px;
+  }
+  .contact1 {
+    top: 180px;
+  }
+  .homeGroup,
+  .homeParent {
+    position: absolute;
+    top: 13.9px;
+    left: 389px;
+    width: 84px;
+    height: 202px;
+  }
+  .homeGroup {
+    left: 583.2px;
+    width: 81px;
+  }
+  .blog {
+    position: absolute;
+    top: 48.7px;
+    left: 0;
+  }
+  .blogParent,
+  .groupChild24 {
+    position: absolute;
+    top: 13.9px;
+    left: 777px;
+    width: 92px;
+    height: 202px;
+  }
+  .groupChild24 {
+    height: 11.12%;
+    width: 13.81%;
+    top: 31.68%;
+    right: 82.97%;
+    bottom: 57.2%;
+    left: 3.22%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .groupParent9 {
+    position: absolute;
+    top: 3585px;
+    left: 282px;
+    width: 869px;
+    height: 215.9px;
+    color: var(--color-dimgray);
+  }
+  .patMain {
+    width: 100%;
+    position: relative;
+    background-color: #f9fdff;
+    height: 4527px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--desktop-bold-h4-size);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
+  

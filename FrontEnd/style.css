@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+.main{
+    padding: 0;
+    display: flex;
+}
+.leftDiv{
+    width:50%;
+ padding: 150px;
+}
+.Expert{
+    font-weight: 500;
+}
+.weFollow{
+    margin-top: 10px;
+    font-size: 60px;
+    font-weight: bolder;
+    display: inline-block;
+}
+.rightdiv{
+    width:50%;
+    padding: 100px;
+    margin-left: 300px;
+    display: flex;
+}
+.patientShow{
+    background-color: #124E66;
+    color: white;
+    margin-top: 350px;
+    height: 60px;
+    width: 100px;
+    border-radius: 6px;
+}
+.kp{
+  margin:3px;
+  margin-left: 15px;
+}
+.docImg{
+    width:350px;
+    height:500px;;
+}
+.DocShow{
+    background-color: #124E66;
+    color: white;
+    margin-top: 150px;
+    height: 60px;
+    width: 150px;
+    border-radius: 6px;
+}
+.experience{
+    position: absolute;
+    top: 33.5px;
+    left: 328.5px;
+    font-size: var(--font-size-17xl);
+    display: inline-block;
+    color: var(--color-black);
+    width: 484.9px;
+    height: 92.4px;
+}
+.offer{
+    position: absolute;
+    top: 148.3px;
+    left: 146.1px;
+    color: var(--color-darkslategray-100);
+    display: inline-block;
+    width: 849.7px;
+    height: 54.9px;
+}
+.service{
+    position: absolute;
+    left: 530px;
+    font-weight: 600;
+    text-align: center;
+}
+.tooth{
+    size: 1px;
+}
+.services_main{
+    display: flex;
+}
+.medical,
+  .ourMedicalServices {
+    position: absolute;
+    left: 0;
+    display: inline-block;
+  }
+  
